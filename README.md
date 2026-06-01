@@ -8,7 +8,7 @@
 ---
 
 ### 🔍 Quick Technical Overview & Summary:
-Clean and rebuild project or delete .idea folder to resolve com.android.ide.common.rendering.api.LayoutlibCallback exception.
+Update the Android NDK and bridge to resolve com/android/util/PropertiesMap error.
 
 ---
 
